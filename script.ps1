@@ -1,1 +1,1 @@
-Write-Host "Write-Host considered AWESOME!"
+Write-Host "Write-Host considered harmful!"
